@@ -1,0 +1,33 @@
+BFS: 
+Path: Arad->Sibiu->Fagaras->Bucharest->end
+Cost: 450
+time: 0.00534290ms
+
+DFS: 
+Path: Arad->Timisoara->Lugoj->Mehadia->Dobreta->Craiova->Pitesti->Bucharest->end
+Cost: 733
+time: 0.00968960ms
+
+UCS: 
+Path: Arad->Sibiu->Rimnicu Vilcea->Pitesti->Bucharest->end
+Cost: 418
+time: 0.05425150ms
+
+IDS: 
+Iter 0 Failed
+Iter 1 Failed
+Iter 2 Failed
+Path: Arad->Sibiu->Fagaras->Bucharest->end
+Cost: 450
+time: 0.01521040ms
+
+GREEDY: 
+Path: Arad->Sibiu->Fagaras->Bucharest->end
+Cost: 450
+time: 0.00467430ms
+
+A*: 
+Path: Arad->Sibiu->Rimnicu Vilcea->Pitesti->Bucharest->end
+Cost:418
+time: 0.00612320ms
+
